@@ -1,11 +1,7 @@
 # 19-sidePrj-spring-bc
 자바 블록체인 : 2학년 1학기 프로젝트
 
+![Untitled (1)](https://user-images.githubusercontent.com/41534462/234200186-8d488cca-5431-41c3-a45d-2f76f8610f54.png)
+![Untitled (2)](https://user-images.githubusercontent.com/41534462/234200229-143ebe47-f71f-46a6-b312-a9bb29819b2c.png)
+![Untitled (3)](https://user-images.githubusercontent.com/41534462/234200273-bfc7a0d8-f7d5-4cf2-9417-931f3fdc0d55.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f945076-2b12-45ed-8fbe-a095287d1dcf/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/228046be-0400-4447-8b73-af0a2aa6b077/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f8a974a-be9b-49ca-b9f7-33af430912e2/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd07de09-705b-4826-82a5-5c0d4d1410f2/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fab625ff-56cf-4be9-80d5-5627a4563039/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/001701be-98e8-41b1-b258-24deab510bba/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a680698f-d09c-4248-b50a-1938ccf044f9/Untitled.png)
